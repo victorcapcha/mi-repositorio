@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Comme:wght@500&family=Roboto+Slab:wght@500&display=swap');
+
+/* header */
+header {
+  background-color: #5F264A;
+}
+header div h1 {
+  color: #03C988;
+}
+header div nav ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+header div nav ul li {
+  margin: 0 10px;
+}
+header div nav ul li a {
+  color: #B0A4A4;
+  text-decoration: none;
+}
+
+/* main */
+
+
+/* seccion */
+
+/* footer */
+footer {
+  background-color: aqua;
+}
